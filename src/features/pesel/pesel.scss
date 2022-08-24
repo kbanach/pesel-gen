@@ -1,0 +1,9 @@
+.inputContainer {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+
+  &__element {
+    display: inline-block;
+  }
+}
