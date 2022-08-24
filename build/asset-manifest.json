@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.96f11949.css",
-    "main.js": "/static/js/main.e5452c3f.js",
-    "index.html": "/index.html",
-    "main.96f11949.css.map": "/static/css/main.96f11949.css.map",
-    "main.e5452c3f.js.map": "/static/js/main.e5452c3f.js.map"
+    "main.css": "https://kbanach.github.io/pesel-gen/static/css/main.96f11949.css",
+    "main.js": "https://kbanach.github.io/pesel-gen/static/js/main.e5452c3f.js",
+    "index.html": "https://kbanach.github.io/pesel-gen/index.html",
+    "main.96f11949.css.map": "https://kbanach.github.io/pesel-gen/static/css/main.96f11949.css.map",
+    "main.e5452c3f.js.map": "https://kbanach.github.io/pesel-gen/static/js/main.e5452c3f.js.map"
   },
   "entrypoints": [
     "static/css/main.96f11949.css",
